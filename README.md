@@ -65,6 +65,8 @@ You can choose a template which will be used by Locator from these :
 * visit <a href="https://ngrok.com/"><b>ngrok</b></a> official website and claim your free account to download the setup.
 * Make sure while you're using ngrok servers,your internet connection is better to interchange the packets.If not you cannot continue this progress.
 
+* If you want to get know about ngrok using/handlings please visit there Documentations page here. <a href="https://ngrok.com/docs"><b>Docs</b></a>
+
 ## Installation
 
 ### Kali Linux / Ubuntu / Parrot OS
