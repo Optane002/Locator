@@ -32,8 +32,6 @@ Along with Location Information we also get **Device Information** without any p
 * Public IP Address
 * IP Address Reconnaissance
 
-**This tool is a Proof of Concept and is for Educational Purposes Only, Locator shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
-
 ## How is this Different from IP GeoLocation
 
 * Other tools and services offer IP Geolocation which is NOT accurate at all and does not give location of the target instead it is the approximate location of the ISP.
@@ -159,4 +157,6 @@ docker run --rm -t --net ngroknet --name ngrok wernight/ngrok ngrok http Locator
 ## Known Problems
 
 * Services like Serveo and Ngrok are banned in some countries such as Russia etc., so if it's banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
+
+**This tool is a Proof of Concept and is for Educational Purposes Only, Locator shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
 
