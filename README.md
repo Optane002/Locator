@@ -155,7 +155,3 @@ docker run --rm -t --net ngroknet --name ngrok wernight/ngrok ngrok http Locator
 
 * Services like Serveo and Ngrok are banned in some countries such as Russia etc., so if it's banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
 
-#Concept by Seeker(thewhiteh4t) - https://github.com/thewhiteh4t/seeker.git
-#Thank you for this tool concept and dependencies.There've lots of improvements and changes done by me.Also i thought that there must be display your name too.that's why i put your name on my developments.
-#Thank You
-
