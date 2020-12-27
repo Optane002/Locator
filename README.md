@@ -11,13 +11,6 @@
   <a href=""><b>Keep Eyes on "Dark"</b></a>
 </p>
 
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
-</p>
-
 Concept behind Locator is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.Locator Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
