@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href=""><b>Twitter</b></a>
+  <a href="https://twitter.com/LDCre002"><b>Twitter</b></a>
   <span> - </span>
   <a href="https://t.me/DarkBYOptane"><b>Telegram</b></a>
   <span> - </span>
-  <a href=""><b>Keep Eyes on "Dark"</b></a>
+  <a href="https://www.youtube.com/channel/UCfE3rGCGU8pQ3jZHmurtS9A"><b>Keep Eyes on "Dark"</b></a>
 </p>
 
 Concept behind Locator is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.Locator Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
@@ -156,6 +156,6 @@ docker run --rm -t --net ngroknet --name ngrok wernight/ngrok ngrok http Locator
 * Services like Serveo and Ngrok are banned in some countries such as Russia etc., so if it's banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
 
 #Concept by Seeker(thewhiteh4t) - https://github.com/thewhiteh4t/seeker.git
-#Thank you for this tool concept and dependencies.There've lots improvements and changes done by me.Also i thought that there must be display your name too.that's why i put your name on my developments.
+#Thank you for this tool concept and dependencies.There've lots of improvements and changes done by me.Also i thought that there must be display your name too.that's why i put your name on my developments.
 #Thank You
 
