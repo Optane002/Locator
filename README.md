@@ -8,7 +8,7 @@
   <span> - </span>
   <a href="https://t.me/DarkBYOptane"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://www.youtube.com/channel/UCfE3rGCGU8pQ3jZHmurtS9A"><b>Keep Eyes on "Dark"</b></a>
+  <a href="https://www.youtube.com/channel/UCfE3rGCGU8pQ3jZHmurtS9A"><b>Keep Eyes on "Dark" YouTube Channel</b></a>
 </p>
 
 Concept behind Locator is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.Locator Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
