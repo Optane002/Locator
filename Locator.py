@@ -51,7 +51,7 @@ port = args.port
 row = []
 info = ''
 result = ''
-version = '1.2.5'
+version = '1.3.0'
 
 def banner():
 	print (G +
