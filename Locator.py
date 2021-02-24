@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#Concept by Seeker(thewhiteh4t) - Thank you for this wonderful Concept and this version have lots of improvements and changes done by me.
-
 #Developed by Óptane(Chamicara.Desilva)
 
 R = '\033[31m' # red
